@@ -1,0 +1,41 @@
+commit 934fcc55acad168b1aa09b95ddfd4b470201aa5d
+Author: sam1829 <sam1829@rit.edu>
+Date:   Tue Apr 26 22:44:48 2016 -0400
+
+    Completed code.
+
+commit a5b2a867a120f1c36e78a55214a8e357df4b9207
+Author: sam1829 <sam1829@rit.edu>
+Date:   Tue Apr 26 22:08:55 2016 -0400
+
+    Made major changes to make update work. Began to make design changes.
+
+commit 5f4d140e5025904b94286337bffdca6fc1838aee
+Author: sam1829 <sam1829@rit.edu>
+Date:   Tue Apr 26 16:36:44 2016 -0400
+
+    Created clue grid- update needed
+
+commit 03837d03f33c9e9b07aedbe87060cf9777cea72c
+Author: sam1829 <sam1829@rit.edu>
+Date:   Mon Apr 25 22:23:09 2016 -0400
+
+    Made guessing add to an ArrayList and saved guess data. TODOs added.
+
+commit 3a3694d63060f80d97e663195755cf4a46a57227
+Author: sam1829 <sam1829@rit.edu>
+Date:   Mon Apr 25 21:57:29 2016 -0400
+
+    Created addition of colors on button presses and limited button presses to certain row
+
+commit 1d97c777218af30f4c261e6c1605d810f7eae2a2
+Author: sam1829 <sam1829@rit.edu>
+Date:   Mon Apr 25 21:41:43 2016 -0400
+
+    Continued building: added colors and mutliple button presses
+
+commit 5f4840600ace1b0c39b50311303508217070285a
+Author: sam1829 <sam1829@rit.edu>
+Date:   Mon Apr 25 21:10:37 2016 -0400
+
+    Started initial buidl of GUI.
